@@ -1,0 +1,9 @@
+pandas
+numpy
+dask
+scikit-learn
+transformers
+torch
+plotly
+streamlit   
+huggingface_hub
