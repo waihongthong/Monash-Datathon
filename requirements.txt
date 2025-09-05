@@ -7,3 +7,5 @@ torch
 plotly
 streamlit   
 huggingface_hub
+matplotlib
+seaborn
